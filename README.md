@@ -1,6 +1,7 @@
 # Ayanix
 For my own use
-[1/18, 10:41 PM] Ayan Butt: Ayanix/
+Ayanix/
+├── codemagic.yaml
 ├── app/
 │   ├── src/
 │   │   ├── main/
