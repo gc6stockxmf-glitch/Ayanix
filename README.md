@@ -1,5 +1,4 @@
-# Ayanix
-For my own use
+
 Ayanix/
 ├── codemagic.yaml
 ├── app/
